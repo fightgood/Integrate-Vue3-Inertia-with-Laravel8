@@ -37,7 +37,7 @@ and
 
     php artisan serv
 
-### 1.4 Result
+### 1.5 Result
 *The result like this:*
 
 ![](https://i.ibb.co/wWNGdm4/5-Result.png)
