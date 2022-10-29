@@ -27,10 +27,6 @@ Making sure we are in the desired folder we're going to require the Laravel's in
     npm install
 and
 
-*Using this command:*  
-
-    npm install --save @types/node
-
 ### 1.4 Run
 
 *Using this command:*
