@@ -178,7 +178,7 @@ To resolve `ziggy` in Vue, we'll have to add an alias to the Vue driver in `webp
 
 Let's move on by setting up our app.js file. This is our main main file we're going to load in our blade template.
 
-Now open `resources/js/app.js` and delete everything from it and add the following chunk of code:  
+Now open `resources/js/app.js` and add the following chunk of code:  
 
     import { createApp, h } from "vue";
     import { createInertiaApp, Link, Head } from "@inertiajs/inertia-vue3";
