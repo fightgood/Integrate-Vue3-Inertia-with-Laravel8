@@ -99,7 +99,7 @@ Install the Inertia client-side adapters using NPM command.
 
 *Using this command:*
 
-    npm install @inertiajs/inertia @inertiajs/inertia-vue
+    npm install @inertiajs/inertia @inertiajs/inertia-vue3
 
 ##### Progress indicator
 
