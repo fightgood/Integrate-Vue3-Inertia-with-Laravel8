@@ -25,7 +25,6 @@ Making sure we are in the desired folder we're going to require the Laravel's in
 *Using this command:*
 
     npm install
-and
 
 ### 1.4 Run
 
