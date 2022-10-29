@@ -164,7 +164,7 @@ We are importing our `app.css` and also a bunch of `.js` we are going to take ca
 
 In the `<body>` we only use the `@inertia` directive which renders a `div` element with a bunch of data passed to it using a `data-page` attribute.
 
-### 5.2 Ziggy - Setup
+### 5.2 Setup - Ziggy
 
 Let's get back to Ziggy and generate the `.js` file that contains all of our routes. We'll gonna import this into our `app.js` a bit later.  
 
